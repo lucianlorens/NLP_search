@@ -1,0 +1,7 @@
+/venv
+.vscode/
+*.pyc
+.~lock.*
+.ipynb_checkpoints/
+.env
+data/
