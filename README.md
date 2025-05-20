@@ -1,5 +1,5 @@
 # NLP_search
-Searxh using machine learning, LLM and Natural Language Understanding
+Search using machine learning, LLM and Natural Language Understanding
  
 ### Prerequisites
 
